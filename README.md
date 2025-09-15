@@ -165,3 +165,6 @@ Allows you to make changes to nodes, types, and libraries without rebuilding the
 cmake .. -DVUO_NODE_DEVELOPER=ON
 cmake .. -DVUO_NODE_DEVELOPER=OFF
 ```
+
+
+###updating
